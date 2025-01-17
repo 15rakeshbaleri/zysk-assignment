@@ -2,7 +2,7 @@ import React from "react";
 import "./index.css";
 import Beautiful from "./pages/Beautiful";
 import Navbar from "./components/Navbar";
-import Companies from "./pages/companies";
+import Company from "./pages/Company";
 import Features from "./pages/Features";
 import Sisy from "./pages/Sisy";
 import Qustions from "./pages/Qustions";
@@ -14,7 +14,7 @@ const App = () => {
     <div>
       <Navbar />
       <Beautiful />
-      <Companies />
+      <Company />
       <Features />
       <Sisy />
       <Qustions />
