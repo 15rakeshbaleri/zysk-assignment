@@ -105,7 +105,7 @@ const Qustions = () => {
           </p>
         </div>
 
-        <button className="min-w-[8.38rem] px-[1.19rem] rounded-lg border border-solid border-red-600 font-semibold flex flex-row items-center justify-center text-center cursor-pointer whitespace-nowrap rounded-[10px] h-[3.00rem] px-[1.25rem] text-[1.00rem] bg-red-600 shadow-xs text-base-white">
+        <button className="min-w-[8.38rem] px-[1.19rem] rounded-lg border text-white border-solid border-red-400 font-semibold flex flex-row items-center justify-center text-center cursor-pointer whitespace-nowrap rounded-[10px] h-[3.00rem] px-[1.25rem] text-[1.00rem] bg-red-600 shadow-xs text-base-white">
           Get in touch
         </button>
       </div>

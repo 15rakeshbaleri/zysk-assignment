@@ -1,5 +1,7 @@
 import React from "react";
-
+import ArrowForwardIcon from "@mui/icons-material/ArrowForward";
+import PlayCircleOutlineIcon from "@mui/icons-material/PlayCircleOutline";
+import { IconButton } from "@mui/material";
 const Beautiful = () => {
   return (
     <div>
@@ -18,11 +20,9 @@ const Beautiful = () => {
                   <p className="text-red-600 font-medium text-sm">
                     Check out the team dashboard
                   </p>
-                  <img
-                    className="h-4"
-                    src="https://dhws-production.s3.ap-south-1.amazonaws.com/678a8aa8a58033001c177b55/678a8ae81919a0002206d9b6/678a8ae81919a0002206d9bb/appSource/images/img_arrow_right.svg"
-                    alt="Arrow"
-                  />
+                  <IconButton>
+                    <ArrowForwardIcon className="text-red-600 font-medium text-sm" />
+                  </IconButton>
                 </div>
               </div>
               <h1 className="text-center font-semibold text-gray-900 text-[3.13rem] tracking-[-0.06rem] sm:text-[2.5rem] md:text-[2.88rem]">
@@ -38,11 +38,9 @@ const Beautiful = () => {
           {/* Buttons */}
           <div className="flex gap-3">
             <button className="flex items-center gap-2 px-5 py-3 bg-white border border-gray-200 rounded-full shadow-sm text-gray-800 font-semibold">
-              <img
-                className="h-5 w-5"
-                src="https://dhws-production.s3.ap-south-1.amazonaws.com/678a8aa8a58033001c177b55/678a8ae81919a0002206d9b6/678a8ae81919a0002206d9bb/appSource/images/img_playcircle.svg"
-                alt="Demo"
-              />
+              <IconButton>
+                <PlayCircleOutlineIcon />
+              </IconButton>
               Demo
             </button>
             <button className="px-5 py-3 bg-red-600 text-white rounded-full font-semibold">
@@ -53,21 +51,12 @@ const Beautiful = () => {
           <div className="relative w-full h-[35rem] border-8 border-gray-900 rounded-lg overflow-hidden">
             <img
               className="absolute inset-0 w-full h-full object-cover"
-              src="https://dhws-production.s3.ap-south-1.amazonaws.com/678a8aa8a58033001c177b55/678a8ae81919a0002206d9b6/678a8ae81919a0002206d9bb/appSource/images/img_image_1.png"
+              src="https://dhws-production.s3.ap-south-1.amazonaws.com/678a8aa8a58033001c177b55/678a8ae81919a0002206d9b6/678a8ae81919a0002206d9bb/appSource/images/img_image_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQODH4IWP4RIAAMUL%2F20250117%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20250117T182912Z&X-Amz-Expires=25200&X-Amz-Signature=212f1cd10d29a7a5acc8296f0ade981748fac824a14acee6a0171df32ed3c97d&X-Amz-SignedHeaders=host"
               alt="Dashboard Preview"
             />
           </div>
         </div>
         {/* Footer Divider */}
-        <div className="flex w-full justify-center bg-white">
-          <div className="max-w-7xl w-full">
-            <img
-              className="w-full"
-              src="https://dhws-production.s3.ap-south-1.amazonaws.com/678a8aa8a58033001c177b55/678a8ae81919a0002206d9b6/678a8ae81919a0002206d9bb/appSource/images/img_container.png"
-              alt="Divider"
-            />
-          </div>
-        </div>
       </div>
     </div>
   );

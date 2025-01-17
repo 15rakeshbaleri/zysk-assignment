@@ -1,4 +1,6 @@
 import React from "react";
+import AccountCircleIcon from "@mui/icons-material/AccountCircle";
+import IconButton from "@mui/material/IconButton";
 
 const Navbar = () => {
   return (
@@ -88,7 +90,9 @@ const Navbar = () => {
           className="w-10 h-10 bg-cover bg-center rounded-full"
           style={{ backgroundImage: `url('https://via.placeholder.com/40')` }}
         >
-          {/* Profile Avatar */}
+          <IconButton>
+            <AccountCircleIcon />
+          </IconButton>
         </div>
       </div>
     </header>

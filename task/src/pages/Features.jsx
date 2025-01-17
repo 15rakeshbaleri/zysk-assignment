@@ -20,7 +20,11 @@ const Features = () => {
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
           <div class="flex flex-col items-center">
             <button class="w-12 h-12 bg-white border border-gray-200 rounded-lg shadow-md flex items-center justify-center">
-              <img src="your-image-url" alt="Feature 1" class="w-6 h-6" />
+              <img
+                src="https://dhws-production.s3.ap-south-1.amazonaws.com/678a8aa8a58033001c177b55/678a8ae81919a0002206d9b6/678a8ae81919a0002206d9bb/appSource/images/img_message_chat_circle.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQODH4IWP4RIAAMUL%2F20250117%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20250117T182912Z&X-Amz-Expires=25200&X-Amz-Signature=876f39faedfd586426a883e7c6d74339c09299ca10328754619a1029178a3ea6&X-Amz-SignedHeaders=host"
+                alt="Feature 1"
+                class="w-6 h-6"
+              />
             </button>
             <div class="text-center mt-4">
               <h5 class="text-xl font-semibold text-gray-900">
@@ -35,7 +39,11 @@ const Features = () => {
 
           <div class="flex flex-col items-center">
             <button class="w-12 h-12 bg-white border border-gray-200 rounded-lg shadow-md flex items-center justify-center">
-              <img src="your-image-url" alt="Feature 2" class="w-6 h-6" />
+              <img
+                src="https://dhws-production.s3.ap-south-1.amazonaws.com/678a8aa8a58033001c177b55/678a8ae81919a0002206d9b6/678a8ae81919a0002206d9bb/appSource/images/img_message_chat_circle.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQODH4IWP4RIAAMUL%2F20250117%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20250117T182912Z&X-Amz-Expires=25200&X-Amz-Signature=876f39faedfd586426a883e7c6d74339c09299ca10328754619a1029178a3ea6&X-Amz-SignedHeaders=host"
+                alt="Feature 2"
+                class="w-6 h-6"
+              />
             </button>
             <div class="text-center mt-4">
               <h5 class="text-xl font-semibold text-gray-900">
@@ -50,7 +58,11 @@ const Features = () => {
 
           <div class="flex flex-col items-center">
             <button class="w-12 h-12 bg-white border border-gray-200 rounded-lg shadow-md flex items-center justify-center">
-              <img src="your-image-url" alt="Feature 3" class="w-6 h-6" />
+              <img
+                src="https://dhws-production.s3.ap-south-1.amazonaws.com/678a8aa8a58033001c177b55/678a8ae81919a0002206d9b6/678a8ae81919a0002206d9bb/appSource/images/img_message_chat_circle.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQODH4IWP4RIAAMUL%2F20250117%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20250117T182912Z&X-Amz-Expires=25200&X-Amz-Signature=876f39faedfd586426a883e7c6d74339c09299ca10328754619a1029178a3ea6&X-Amz-SignedHeaders=host"
+                alt="Feature 3"
+                class="w-6 h-6"
+              />
             </button>
             <div class="text-center mt-4">
               <h5 class="text-xl font-semibold text-gray-900">
@@ -65,7 +77,11 @@ const Features = () => {
 
           <div class="flex flex-col items-center">
             <button class="w-12 h-12 bg-white border border-gray-200 rounded-lg shadow-md flex items-center justify-center">
-              <img src="your-image-url" alt="Feature 4" class="w-6 h-6" />
+              <img
+                src="https://dhws-production.s3.ap-south-1.amazonaws.com/678a8aa8a58033001c177b55/678a8ae81919a0002206d9b6/678a8ae81919a0002206d9bb/appSource/images/img_message_chat_circle.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQODH4IWP4RIAAMUL%2F20250117%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20250117T182912Z&X-Amz-Expires=25200&X-Amz-Signature=876f39faedfd586426a883e7c6d74339c09299ca10328754619a1029178a3ea6&X-Amz-SignedHeaders=host"
+                alt="Feature 4"
+                class="w-6 h-6"
+              />
             </button>
             <div class="text-center mt-4">
               <h5 class="text-xl font-semibold text-gray-900">
@@ -80,7 +96,11 @@ const Features = () => {
           </div>
           <div class="flex flex-col items-center">
             <button class="w-12 h-12 bg-white border border-gray-200 rounded-lg shadow-md flex items-center justify-center">
-              <img src="your-image-url" alt="Feature 4" class="w-6 h-6" />
+              <img
+                src="https://dhws-production.s3.ap-south-1.amazonaws.com/678a8aa8a58033001c177b55/678a8ae81919a0002206d9b6/678a8ae81919a0002206d9bb/appSource/images/img_message_chat_circle.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQODH4IWP4RIAAMUL%2F20250117%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20250117T182912Z&X-Amz-Expires=25200&X-Amz-Signature=876f39faedfd586426a883e7c6d74339c09299ca10328754619a1029178a3ea6&X-Amz-SignedHeaders=host"
+                alt="Feature 4"
+                class="w-6 h-6"
+              />
             </button>
             <div class="text-center mt-4">
               <h5 class="text-xl font-semibold text-gray-900">
@@ -95,7 +115,11 @@ const Features = () => {
           </div>
           <div class="flex flex-col items-center">
             <button class="w-12 h-12 bg-white border border-gray-200 rounded-lg shadow-md flex items-center justify-center">
-              <img src="your-image-url" alt="Feature 4" class="w-6 h-6" />
+              <img
+                src="https://dhws-production.s3.ap-south-1.amazonaws.com/678a8aa8a58033001c177b55/678a8ae81919a0002206d9b6/678a8ae81919a0002206d9bb/appSource/images/img_message_chat_circle.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQODH4IWP4RIAAMUL%2F20250117%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20250117T182912Z&X-Amz-Expires=25200&X-Amz-Signature=876f39faedfd586426a883e7c6d74339c09299ca10328754619a1029178a3ea6&X-Amz-SignedHeaders=host"
+                alt="Feature 4"
+                class="w-6 h-6"
+              />
             </button>
             <div class="text-center mt-4">
               <h5 class="text-xl font-semibold text-gray-900">

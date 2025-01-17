@@ -15,13 +15,13 @@ const Company = () => {
                   <div class="flex items-center justify-center w-1/6 md:w-full">
                     <img
                       class="h-11"
-                      src="path-to-arrow-left.svg"
+                      src="https://dhws-production.s3.ap-south-1.amazonaws.com/678a8aa8a58033001c177b55/678a8ae81919a0002206d9b6/678a8ae81919a0002206d9bb/appSource/images/img_arrow_left.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQODH4IWP4RIAAMUL%2F20250117%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20250117T182912Z&X-Amz-Expires=25200&X-Amz-Signature=ec99de27d3226f969a864861555501a6feb27433c6deb567efe26a4d9320f572&X-Amz-SignedHeaders=host"
                       alt="Arrow Left"
                       loading="lazy"
                     />
                     <img
                       class="w-[72%] h-5 object-contain"
-                      src="path-to-logotype.svg"
+                      src="https://dhws-production.s3.ap-south-1.amazonaws.com/678a8aa8a58033001c177b55/678a8ae81919a0002206d9b6/678a8ae81919a0002206d9bb/appSource/images/img_logotype.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQODH4IWP4RIAAMUL%2F20250117%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20250117T182912Z&X-Amz-Expires=25200&X-Amz-Signature=d19c547103e3e0dc21f5d474faba8ac540610a5c168b2200975c29846329bc42&X-Amz-SignedHeaders=host"
                       alt="Logotype"
                       loading="lazy"
                     />

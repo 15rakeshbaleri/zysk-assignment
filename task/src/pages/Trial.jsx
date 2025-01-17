@@ -16,7 +16,7 @@ const Trail = () => {
           <button className="min-w-[8.00rem] px-[1.19rem] rounded-lg border border-solid border-blue_gray-100 font-semibold text-blue_gray-800 flex flex-row items-center justify-center text-center cursor-pointer whitespace-nowrap rounded-[10px] h-[3.00rem] px-[1.25rem] text-[1.00rem] bg-base-white shadow-xs">
             Learn more
           </button>
-          <button className="min-w-[8.00rem] px-[1.19rem] rounded-lg border border-solid border-red-600 font-semibold flex flex-row items-center justify-center text-center cursor-pointer whitespace-nowrap rounded-[10px] h-[3.00rem] px-[1.25rem] text-[1.00rem] bg-red-600 shadow-xs text-base-white">
+          <button className="min-w-[8.00rem] px-[1.19rem] rounded-lg border border-solid text-white border-red-400 font-semibold flex flex-row items-center justify-center text-center cursor-pointer whitespace-nowrap rounded-[10px] h-[3.00rem] px-[1.25rem] text-[1.00rem] bg-red-600 shadow-xs text-base-white">
             Get started
           </button>
         </div>
