@@ -92,7 +92,7 @@ const Sisy = () => {
                   className="bg-cover bg-no-repeat rounded-full w-16 h-16"
                   style={{
                     backgroundImage:
-                      "url('https://dhws-production.s3.ap-south-1.amazonaws.com/678a8aa8a58033001c177b55/678a8ae81919a0002206d9b6/678a8ae81919a0002206d9bb/appSource/images/img_avatar_64x64.png')",
+                      "url('https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?auto=compress&cs=tinysrgb&w=600')",
                   }}
                 >
                   <Box className="border border-solid border-gray-900 w-16 h-16 rounded-full" />
@@ -108,16 +108,6 @@ const Sisy = () => {
               </Box>
             </Box>
           </Box>
-        </Box>
-      </Box>
-      <Box className="flex justify-center w-full bg-white">
-        <Box className="max-w-screen-lg mx-auto w-full">
-          <img
-            className="h-1 object-cover w-full"
-            src="https://dhws-production.s3.ap-south-1.amazonaws.com/678a8aa8a58033001c177b55/678a8ae81919a0002206d9b6/678a8ae81919a0002206d9bb/appSource/images/img_container.png"
-            alt="Container"
-            loading="lazy"
-          />
         </Box>
       </Box>
     </Box>

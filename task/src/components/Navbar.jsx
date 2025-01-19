@@ -108,9 +108,21 @@ const Navbar = () => {
           className="w-10 h-10 bg-cover bg-center rounded-full"
           style={{ backgroundImage: `url('https://via.placeholder.com/40')` }}
         >
-          <IconButton>
-            <AccountCircleIcon />
-          </IconButton>
+          <div
+            className="bg-[url(https://dhws-production.s3.ap-south-1.amazonaws.com/678a8aa8a58033001c177b55/678a8ae81919a0002206d9b6/678a8ae81919a0002206d9bb/appSource/images/img_avatar_56x56.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAQODH4IWP4RIAAMUL%2F20250117%2Fap-south-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250117T182912Z&amp;X-Amz-Expires=25200&amp;X-Amz-Signature=4a8d867c8d1c3f0e62008eb002f09a498c5273f27389d1148446da570e0b66ed&amp;X-Amz-SignedHeaders=host)] rounded-[20px] w-[10%] h-[2.50rem] flex flex-col items-center bg-cover bg-no-repeat"
+            style={{
+              backgroundImage:
+                "url(https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?auto=compress&cs=tinysrgb&w=600)",
+            }}
+          >
+            <div
+              className="rounded-full border-[0.75px] w-[2.50rem] h-[2.50rem] border-solid border-gray-900-0 bg-cover bg-no-repeat"
+              style={{
+                backgroundImage:
+                  "url(https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?auto=compress&cs=tinysrgb&w=600)",
+              }}
+            ></div>
+          </div>
         </div>
       </div>
     </header>
