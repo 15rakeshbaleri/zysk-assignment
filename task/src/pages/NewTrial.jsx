@@ -1,6 +1,6 @@
 import React from "react";
 
-const Trail = () => {
+const NewTrail = () => {
   return (
     <div className="md:py-[1.25rem] py-[6.00rem] flex flex-col items-center justify-center bg-gray-50">
       <div className="max-w-[80.00rem] md:px-[1.25rem] px-[3.50rem] gap-[2.38rem] mx-auto flex w-full flex-col items-center">
@@ -25,4 +25,4 @@ const Trail = () => {
   );
 };
 
-export default Trail;
+export default NewTrail;
